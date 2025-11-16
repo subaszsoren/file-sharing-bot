@@ -218,7 +218,7 @@ async def start_command(client: Client, message: Message):
         reply_text = f"""
 👋 **Hello, {user_name}!**
 
-__Welcome To Sharing Box Bot. I Can Help You Create Permanent, Shareable Links For Your Files.__
+__Welcome To MXDrive Bot. I Can Help You Create Permanent, Shareable Links For Your Files.__
 
 **How To Use Me:**
 
